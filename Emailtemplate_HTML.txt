@@ -1,0 +1,78 @@
+<html><body><table cellpadding="0" cellspacing="0" width="100%" bgcolor="#bdbbbd" style="background-color:#bdbbbd"><tbody><tr><td align="center" style="text-align:left"><table align="center" cellpadding="0" cellspacing="0" id="topMessageWrapper" style="background-color:#bdbbbd;border-bottom:1px solid #999999;border-left:0px none #ffffff;border-right:0px none #999999;border-top:1px solid #999999;color:#424242;font-family:'Trebuchet MS';font-size:12px;width:600px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin:0 auto;" bgcolor="#bdbbbd" width="600"><tbody><tr><td>
+	<!-- DESIGNER TEMPLATE: Squared --><!-- BASIC DERIVATION: BodyWithTwoHeadsAndFoot --><table border="0" cellpadding="0" cellspacing="0" width="600"><tbody><tr><td width="100%" style="color:#424242;font-family:'Trebuchet MS';font-size:12px;">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="33%" valign="top" height="100%" style="background-color:#ffffff;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#999999;border-top-width:1px;border-top-style:solid;border-top-color:#999999;color:#424242;font-family:'Trebuchet MS';font-size:12px;" bgcolor="#ffffff">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%"><tbody><tr><td valign="top" height="100%" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;color:#424242;font-family:'Trebuchet MS';font-size:12px;">
+													<div class="" style="border-color: #c2d9e7;">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%" style="word-wrap:break-word;table-layout:fixed;"><tbody><tr><td style="color:#424242;font-family:'Trebuchet MS';font-size:12px;"><p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<img src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/39c7853a954d8fdcb61a615ea98c89df/image/jpeg" style="width: 198px; height: 57px; display: inline;" width="198" height="57"></p>
+</td>
+																</tr></tbody></table></div>
+												</td>
+											</tr></tbody></table></td>
+								<td width="406" valign="top" height="100%" style="height:100%;background-color:#226699;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#999999;color:#424242;font-family:'Trebuchet MS';font-size:12px;" bgcolor="#226699">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%" style="height:100%;"><tbody><tr><td valign="top" height="100%" style="height:100%;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;color:#424242;font-family:'Trebuchet MS';font-size:12px;">
+													<div style="border-color: #c2d9e7;" class="">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%" style="word-wrap:break-word;table-layout:fixed;"><tbody><tr><td style="padding-bottom:15px;padding-left:15px;padding-right:15px;padding-top:15px;background-color:#ffffff;border-top:0px none transparent;border-right:0px none transparent;border-bottom:0px none transparent;border-left:0px none transparent;color:#424242;font-family:'Trebuchet MS';font-size:12px;" bgcolor="#ffffff"><p style="text-align:right;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+<p style="text-align:right;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="font-size:16px;"><span style="color:#999999;">Connect with us</span></span></p>
+<p style="text-align:right;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<img alt="" src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/a664bd7519deed9ec9e12f1192591197/image/png" style="margin: 0px; border: 0px solid #424242; width: 33px; height: 34px; display: inline;" width="33" height="34">&nbsp;&nbsp;<img alt="" src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/0184958c173d332aca4a11a5c0ca86ce/image/png" style="margin: 0px; border: 0px solid #424242; width: 34px; height: 34px; display: inline;" width="34" height="34"></p>
+</td>
+																</tr></tbody></table></div>
+												</td>
+											</tr></tbody></table></td>
+							</tr></tbody></table></td>
+			</tr><tr><td width="100%" style="border-top-width:1px;border-top-style:solid;border-top-color:#999999;color:#424242;font-family:'Trebuchet MS';font-size:12px;">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="100%" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;color:#424242;font-family:'Trebuchet MS';font-size:12px;">
+									<div class="" style="border-color: #c2d9e7;">
+										<table border="0" cellpadding="0" cellspacing="0" width="100%" style="word-wrap:break-word;table-layout:fixed;"><tbody><tr><td style="background-color:#ffffff;padding-bottom:15px;padding-left:15px;padding-right:15px;padding-top:15px;border-top:0px none transparent;border-right:0px none #999999;border-bottom:0px none transparent;border-left:0px none #999999;color:#424242;font-family:'Trebuchet MS';font-size:12px;" bgcolor="#ffffff"><p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<img alt="" src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/1023f02f57f89db3a31280d7a694f8f6/image/png" style="margin: 0px; border: 0px solid #424242; width: 287px; height: 229px; float: right; display: block;" align="right" width="287" height="229"><span style="color:#666666;"><span style="font-size:29px;"><span style="color:#005380;">You can reach 5 people with God's Word for $5.</span></span><br><br><span style="font-size: 12px;">When you send a Bible through Bible League International, it can reach 5 poeple on average with the life-changing Word of God!</span></span></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="color: #666666;">It costs just $5 to send one Bible to a someone in need of God's Word somewhere in the world. </span></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="color: #666666;">That means <em><strong><span style="font-size:14px;">if you give a gift of $35, it has the potential to reach 35 people with God's Word.</span></strong></em></span></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="color: #666666;">Will you take</span><span style="color: #666666;">&nbsp;of advantage of the the multiplying power of God's Word and give a gift to make sure that everyone who wants one, has access to a Bible? &nbsp;</span></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<img alt="" src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/77fa94c7ac2ee64231bda1a88ef73d23/image/png" style="text-align: right; color: #666666; margin: 0px; border: 0px solid #666666; float: right; display: block;" align="right"></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	In Him,</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	Rob T. Frank</p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	President and CEO</p>
+</td>
+												</tr></tbody></table></div>
+									
+									
+									
+									
+									<div style="border-color: #c2d9e7;" class="">
+										<table border="0" cellpadding="0" cellspacing="0" width="100%" style="word-wrap:break-word;table-layout:fixed;"><tbody><tr><td style="background-color:#ffffff;padding-bottom:15px;padding-left:15px;padding-right:15px;padding-top:15px;border-top:1px solid #999999;border-right:0px none transparent;border-bottom:0px none transparent;border-left:0px none transparent;color:#424242;font-family:'Trebuchet MS';font-size:12px;" bgcolor="#ffffff"><p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="font-size: 12px;"><span style="color: #424242;">Your gifts to Bible League International make it possible for our ministry to provide God's Word to a world in need. &nbsp;Thank you for your prayers and financial support.</span></span></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="font-size: 12px;"><span style="color: #424242;"><img src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/377ec6bd284a4feecfaf698b079da52a/image/png" style="margin: 0px; border: 0px solid #424242; width: 38px; height: 38px; display: inline;" width="38" height="38"><img src="http://staticapp.icpsc.com/icp/loadimage.php/mogile/1458365/a3e843ffec3ed6ce6aa238650b8ab445/image/png" style="margin: 0px; border: 0px solid #424242; width: 62px; height: 35px; display: inline;" width="62" height="35">&nbsp;&nbsp;</span></span>&nbsp; &nbsp;&nbsp;</p>
+<p style="text-align:center;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	Bible League International &nbsp;- &nbsp;1 Bible League Plaza &nbsp;- &nbsp;Crete, IL 60417</p>
+</td>
+												</tr></tbody></table></div><div class="" style="border-color: #c2d9e7;"><table width="100%" cellpadding="0" cellspacing="0" style="word-wrap:break-word;table-layout:fixed;"><tbody><tr><td style="background-color:#005380;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-top:0px none transparent;border-right:0px none transparent;border-bottom:0px none transparent;border-left:0px none transparent;color:#424242;font-family:'Trebuchet MS';font-size:12px;" bgcolor="#005380"><p style="text-align:center;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="color:#424242;"><span style="color:#ffffff;">If at any time you would prefer to not receive Bible League International ecommunications, please </span></span></p>
+<p style="text-align:center;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	<span style="color:#424242;"><span style="color:#ffffff;"><u>click-here </u>to unsubscribe or make changes to your email preferences.</span></span></p>
+<p style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;">
+	&nbsp;</p>
+</td></tr></tbody></table></div>
+								</td>
+							</tr></tbody></table></td>
+			</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
